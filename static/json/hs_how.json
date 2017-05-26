@@ -1,0 +1,36 @@
+{
+	"bannerlist":[
+		{
+			"title":"第一",
+			"src":"/static/img/HS_how/hs_how1.jpg",
+			"Href":"javasrcipt:void(0)",
+			"Class":"炉石传说",
+			"time":1495699343000,
+			"com_num":230
+		},
+		{
+			"title":"第二232321321321",
+			"src":"/static/img/HS_how/hs_how2.jpg",
+			"Href":"javasrcipt:void(0)",
+			"Class":"炉石传说",
+			"time":1495645343000,
+			"com_num":230
+		},
+		{
+			"title":"第三阿什顿发斯蒂芬",
+			"src":"/static/img/HS_how/hs_how3.jpg",
+			"Href":"javasrcipt:void(0)",
+			"Class":"炉石传说",
+			"time":1495558943000,
+			"com_num":230
+		},
+		{
+			"title":"第四         阿斯顿发生的发生大法师打发斯蒂芬",
+			"src":"/static/img/HS_how/hs_how4.jpg",
+			"Href":"javasrcipt:void(0)",
+			"Class":"炉石传说",
+			"time":1495717223000,
+			"com_num":230
+		}
+	]
+}
