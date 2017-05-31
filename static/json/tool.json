@@ -3,52 +3,52 @@
 		{
 			"title":"炉石传说",
 			"on_off":true,
-			"imgUrl":"/static/img/game_icon/HOW.png", 
+			"imgUrl":"./static/img/game_icon/HOW.png", 
 			"txt":"最良心的炉石工具，现在不用还等什么",
 			"theme":439329,
 			"mainBtn":[
 			{
-				"imgUrl":"/static/img/tool/HOW/inquire.jpg",
+				"imgUrl":"./static/img/tool/HOW/inquire.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"单卡查询"
 			},
 			{
-				"imgUrl":"/static/img/tool/HOW/collect.jpg",
+				"imgUrl":"./static/img/tool/HOW/collect.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"单卡收藏"
 			},
 			{
-				"imgUrl":"/static/img/tool/HOW/TPsquare.jpg",
+				"imgUrl":"./static/img/tool/HOW/TPsquare.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"套牌广场"
 			},
 			{
-				"imgUrl":"/static/img/tool/HOW/mtTP.jpg",
+				"imgUrl":"./static/img/tool/HOW/mtTP.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"我的套牌"
 			},
 			{
-				"imgUrl":"/static/img/tool/HOW/JJC.jpg",
+				"imgUrl":"./static/img/tool/HOW/JJC.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"竞技场"
 			},
 			{
-				"imgUrl":"/static/img/tool/HOW/JJCscore.jpg",
+				"imgUrl":"./static/img/tool/HOW/JJCscore.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"竞技场评分"
 			},
 			{
-				"imgUrl":"/static/img/tool/HOW/RPtest.jpg",
+				"imgUrl":"./static/img/tool/HOW/RPtest.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"安戈洛开包人品测试"
 			},
 			{
-				"imgUrl":"/static/img/tool/HOW/zhiboshow.jpg",
+				"imgUrl":"./static/img/tool/HOW/zhiboshow.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"直播间"
 			},
 			{
-				"imgUrl":"/static/img/tool/HOW/imgManage.jpg",
+				"imgUrl":"./static/img/tool/HOW/imgManage.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"图片包管理"
 			}
@@ -57,17 +57,17 @@
 		{
 			"title":"守望先锋",
 			"on_off":true,
-			"imgUrl":"/static/img/game_icon/OW.png", 
+			"imgUrl":"./static/img/game_icon/OW.png", 
 			"txt":"实时卡牌对战游戏，又掀起了一场非欧之争",
 			"theme":7246,
 			"mainBtn":[
 			{
-				"imgUrl":"/static/img/tool/OW/zhiboshow.jpg",
+				"imgUrl":"./static/img/tool/OW/zhiboshow.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"直播间"
 			},
 			{
-				"imgUrl":"/static/img/tool/OW/hero.jpg",
+				"imgUrl":"./static/img/tool/OW/hero.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"英雄数据库"
 			}
@@ -78,12 +78,12 @@
 		{
 			"title":"皇室战争",
 			"on_off":true,
-			"imgUrl":"/static/img/game_icon/CR.png", 
+			"imgUrl":"./static/img/game_icon/CR.png", 
 			"txt":"实时卡牌对战游戏，又掀起了一场非欧之争",
 			"theme":23619,
 			"mainBtn":[
 			{
-				"imgUrl":"/static/img/tool/CR/database.jpg",
+				"imgUrl":"./static/img/tool/CR/database.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"皇室战争数据库"
 			}
@@ -92,37 +92,37 @@
 		{
 			"title":"昆特牌",
 			"on_off":true,
-			"imgUrl":"/static/img/game_icon/kunte.png", 
+			"imgUrl":"./static/img/game_icon/kunte.png", 
 			"txt":"\"要来盘昆特牌么？\"",
 			"theme":3802,
 			"mainBtn":[
 			{
-				"imgUrl":"/static/img/tool/kunte/inquire.jpg",
+				"imgUrl":"./static/img/tool/kunte/inquire.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"单卡查询"
 			},
 			{
-				"imgUrl":"/static/img/tool/kunte/collect.jpg",
+				"imgUrl":"./static/img/tool/kunte/collect.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"单卡收藏"
 			},
 			{
-				"imgUrl":"/static/img/tool/kunte/TPsquare.jpg",
+				"imgUrl":"./static/img/tool/kunte/TPsquare.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"套牌广场"
 			},
 			{
-				"imgUrl":"/static/img/tool/kunte/mtTP.jpg",
+				"imgUrl":"./static/img/tool/kunte/mtTP.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"我的套牌"
 			},
 			{
-				"imgUrl":"/static/img/tool/kunte/zhiboshow.jpg",
+				"imgUrl":"./static/img/tool/kunte/zhiboshow.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"直播间"
 			},
 			{
-				"imgUrl":"/static/img/tool/kunte/imgManage.jpg",
+				"imgUrl":"./static/img/tool/kunte/imgManage.jpg",
 				"Href":"javasrcipt:void(0)",
 				"txt":"图片包管理"
 			}
@@ -133,14 +133,14 @@
 		{
 			"title":"玩家杂谈",
 			"on_off":true,
-			"imgUrl":"/static/img/game_icon/userChat.png", 
+			"imgUrl":"./static/img/game_icon/userChat.png", 
 			"txt":"汇集网络好文让你告别无聊",
 			"theme":25269
 		},
 		{
 			"title":"游戏王",
 			"on_off":true,
-			"imgUrl":"/static/img/game_icon/DL_link.png", 
+			"imgUrl":"./static/img/game_icon/DL_link.png", 
 			"txt":"日系经典卡牌游戏",
 			"theme":2839
 		}
