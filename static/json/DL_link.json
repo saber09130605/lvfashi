@@ -2,7 +2,7 @@
 	"bannerlist":[
 		{
 			"title":"第一",
-			"src":"/static/img/DL_link/swiper_1.jpg",
+			"src":"./static/img/DL_link/swiper_1.jpg",
 			"Href":"javasrcipt:void(0)",
 			"Class":"游戏王",
 			"time":1495699343000,
