@@ -1,7 +1,7 @@
 {
 	"list":[
 		{
-			"title":"炉石传说",
+			"title":"炉石",
 			"imgUrl":"./static/img/game_icon/HOW.png",
 			"txt":"暴雪出品魔兽背景卡牌游戏",
 			"Href":"/how",
@@ -15,18 +15,11 @@
 			"updataNum":1
 		},
 		{
-			"title":"守望先锋",
+			"title":"守望",
 			"imgUrl":"./static/img/game_icon/OW.png",
 			"txt":"暴雪出品MOBA类射击游戏",
-			"Href":"javascript:void(0)",
+			"Href":"/ow",
 			"updataNum":0
-		},
-		{
-			"title":"玩家杂谈",
-			"imgUrl":"./static/img/game_icon/userChat.png",
-			"txt":"汇集网络好文让你告别无聊",
-			"Href":"javascript:void(0)",
-			"updataNum":2
 		}
 	],
 	"morelist":[
@@ -43,6 +36,13 @@
 			"txt":"首款即时策略类卡牌游戏",
 			"Href":"javascript:void(0)",
 			"updataNum":0
+		},
+		{
+			"title":"杂谈",
+			"imgUrl":"./static/img/game_icon/userChat.png",
+			"txt":"汇集网络好文让你告别无聊",
+			"Href":"javascript:void(0)",
+			"updataNum":2
 		}
 	]
 }

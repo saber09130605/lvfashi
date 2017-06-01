@@ -1,0 +1,36 @@
+{
+	"bannerlist":[
+		{
+			"title":"【守望漫画】双飞的故事",
+			"src":"./static/img/ow/ow1.jpg",
+			"Href":"javasrcipt:void(0)",
+			"Class":"游戏王",
+			"time":1495699343000,
+			"com_num":230
+		},
+		{
+			"title":"如果守望先锋变成了",
+			"src":"./static/img/ow/ow3.jpg",
+			"Href":"javasrcipt:void(0)",
+			"Class":"游戏王",
+			"time":1495699343000,
+			"com_num":230
+		},
+		{
+			"title":"当我们在玩守望先锋的时候，我们是...",
+			"src":"./static/img/ow/ow2.jpg",
+			"Href":"javasrcipt:void(0)",
+			"Class":"游戏王",
+			"time":1495699343000,
+			"com_num":230
+		},
+		{
+			"title":"那些玩了很久才发现的冷知识",
+			"src":"./static/img/ow/ow4.jpg",
+			"Href":"javasrcipt:void(0)",
+			"Class":"游戏王",
+			"time":1495699343000,
+			"com_num":230
+		}
+	]
+}
