@@ -9,85 +9,50 @@
 			"mainBtn":[
 			{
 				"imgUrl":"./static/img/tool/HOW/inquire.jpg",
-				"Href":"javasrcipt:void(0)",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
 				"txt":"单卡查询"
 			},
 			{
 				"imgUrl":"./static/img/tool/HOW/collect.jpg",
-				"Href":"javasrcipt:void(0)",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
 				"txt":"单卡收藏"
 			},
 			{
 				"imgUrl":"./static/img/tool/HOW/TPsquare.jpg",
-				"Href":"javasrcipt:void(0)",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
 				"txt":"套牌广场"
 			},
 			{
 				"imgUrl":"./static/img/tool/HOW/mtTP.jpg",
-				"Href":"javasrcipt:void(0)",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
 				"txt":"我的套牌"
 			},
 			{
 				"imgUrl":"./static/img/tool/HOW/JJC.jpg",
-				"Href":"javasrcipt:void(0)",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
 				"txt":"竞技场"
 			},
 			{
 				"imgUrl":"./static/img/tool/HOW/JJCscore.jpg",
-				"Href":"javasrcipt:void(0)",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
 				"txt":"竞技场评分"
 			},
 			{
 				"imgUrl":"./static/img/tool/HOW/RPtest.jpg",
-				"Href":"javasrcipt:void(0)",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
 				"txt":"安戈洛开包人品测试"
 			},
 			{
 				"imgUrl":"./static/img/tool/HOW/zhiboshow.jpg",
-				"Href":"javasrcipt:void(0)",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
 				"txt":"直播间"
 			},
 			{
 				"imgUrl":"./static/img/tool/HOW/imgManage.jpg",
-				"Href":"javasrcipt:void(0)",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
 				"txt":"图片包管理"
 			}
 			]			
-		},
-		{
-			"title":"守望先锋",
-			"on_off":true,
-			"imgUrl":"./static/img/game_icon/OW.png", 
-			"txt":"实时卡牌对战游戏，又掀起了一场非欧之争",
-			"theme":7246,
-			"mainBtn":[
-			{
-				"imgUrl":"./static/img/tool/OW/zhiboshow.jpg",
-				"Href":"javasrcipt:void(0)",
-				"txt":"直播间"
-			},
-			{
-				"imgUrl":"./static/img/tool/OW/hero.jpg",
-				"Href":"javasrcipt:void(0)",
-				"txt":"英雄数据库"
-			}
-			]	
-		}
-	],
-	"moreTool":[
-		{
-			"title":"皇室战争",
-			"on_off":true,
-			"imgUrl":"./static/img/game_icon/CR.png", 
-			"txt":"实时卡牌对战游戏，又掀起了一场非欧之争",
-			"theme":23619,
-			"mainBtn":[
-			{
-				"imgUrl":"./static/img/tool/CR/database.jpg",
-				"Href":"javasrcipt:void(0)",
-				"txt":"皇室战争数据库"
-			}
-			]	
 		},
 		{
 			"title":"昆特牌",
@@ -98,33 +63,68 @@
 			"mainBtn":[
 			{
 				"imgUrl":"./static/img/tool/kunte/inquire.jpg",
-				"Href":"javasrcipt:void(0)",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
 				"txt":"单卡查询"
 			},
 			{
 				"imgUrl":"./static/img/tool/kunte/collect.jpg",
-				"Href":"javasrcipt:void(0)",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
 				"txt":"单卡收藏"
 			},
 			{
 				"imgUrl":"./static/img/tool/kunte/TPsquare.jpg",
-				"Href":"javasrcipt:void(0)",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
 				"txt":"套牌广场"
 			},
 			{
 				"imgUrl":"./static/img/tool/kunte/mtTP.jpg",
-				"Href":"javasrcipt:void(0)",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
 				"txt":"我的套牌"
 			},
 			{
 				"imgUrl":"./static/img/tool/kunte/zhiboshow.jpg",
-				"Href":"javasrcipt:void(0)",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
 				"txt":"直播间"
 			},
 			{
 				"imgUrl":"./static/img/tool/kunte/imgManage.jpg",
-				"Href":"javasrcipt:void(0)",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
 				"txt":"图片包管理"
+			}
+			]	
+		}
+	],
+	"moreTool":[
+		{
+			"title":"守望先锋",
+			"on_off":true,
+			"imgUrl":"./static/img/game_icon/OW.png", 
+			"txt":"实时卡牌对战游戏，又掀起了一场非欧之争",
+			"theme":7246,
+			"mainBtn":[
+			{
+				"imgUrl":"./static/img/tool/OW/zhiboshow.jpg",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
+				"txt":"直播间"
+			},
+			{
+				"imgUrl":"./static/img/tool/OW/hero.jpg",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
+				"txt":"英雄数据库"
+			}
+			]	
+		},
+		{
+			"title":"皇室战争",
+			"on_off":true,
+			"imgUrl":"./static/img/game_icon/CR.png", 
+			"txt":"实时卡牌对战游戏，又掀起了一场非欧之争",
+			"theme":23619,
+			"mainBtn":[
+			{
+				"imgUrl":"./static/img/tool/CR/database.png",
+				"Href":"http://lakeshoreftp.open.egret.com/ftproot/0cdc464ae37c4e819328192e78f2ff7f/dafeiji/index.html",
+				"txt":"皇室战争数据库"
 			}
 			]	
 		}
