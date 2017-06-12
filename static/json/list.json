@@ -4,21 +4,21 @@
 			"title":"炉石",
 			"imgUrl":"./static/img/game_icon/HOW.png",
 			"txt":"暴雪出品魔兽背景卡牌游戏",
-			"Href":"/how",
+			"Href":"/index/hs",
 			"updataNum":3
 		},
 		{
 			"title":"游戏王",
 			"imgUrl":"./static/img/game_icon/DL_link.png",
 			"txt":"日系经典卡牌游戏",
-			"Href":"/dl",
+			"Href":"/index/dl",
 			"updataNum":1
 		},
 		{
 			"title":"守望",
 			"imgUrl":"./static/img/game_icon/OW.png",
 			"txt":"暴雪出品MOBA类射击游戏",
-			"Href":"/ow",
+			"Href":"/index/ow",
 			"updataNum":0
 		}
 	],
